@@ -45,7 +45,8 @@ To evaluate the model's performance (metrics like mAP, Precision, Recall) on a d
 ```bash
 # Command to run testing with specified data source and model weights
 python test.py --source "path/to/your/test/data/" --weights "path/to/your/model.pt"
----
+```
+
 ![Ekran görüntüsü](images/kirpilmis_plaka.jpg)
 ---
 ![Ekran görüntüsü](images/result.png)
