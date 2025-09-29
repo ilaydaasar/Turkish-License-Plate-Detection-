@@ -1,8 +1,9 @@
 # plaka_tanima_oto.yaml
-path: C:/Users/sayca/OneDrive/Belgeler/carplate/datasets/coco8
+path: carplate/datasets/coco8
 
 train: images/train
 val: images/val
 
 nc: 1
 names: ['plate']
+
