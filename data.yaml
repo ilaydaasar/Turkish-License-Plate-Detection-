@@ -1,4 +1,4 @@
-path: C:\Users\sayca\OneDrive\Belgeler\carplate\datasets\roboflow_dataset
+path: carplate\datasets\roboflow_dataset
 train: train/images
 val: valid/images
 
